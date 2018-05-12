@@ -1,0 +1,31 @@
+_repo: Miss-Philly-Firkin-The-China-Woman_22844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Mary Russell
+    alias: Mitford, Miss
+    birthdate: 1787
+    deathdate: 1855
+    gutenberg_agent_id: '939'
+    url: http://www.gutenberg.org/2009/agents/939
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Russell_Mitford
+description: ''
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Businesswomen -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Single women -- Fiction'
+title: Miss Philly Firkin, The China-Woman
+url: http://www.gutenberg.org/ebooks/22844
